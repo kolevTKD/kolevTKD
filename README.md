@@ -24,13 +24,12 @@ Feel free to reach out if you want to collaborate, learn together, or just have 
 
 You can check out some of my repositories below:
 
-- **[Project Name](https://github.com/kolevTKD/project-name)**: Brief description of what this project is about.
-- **[Another Project](https://github.com/kolevTKD/another-project)**: Brief description of another project.
+- **[SoftUni-Lectures](https://github.com/kolevTKD/SoftUni-lectures)**: Brief description of what this project is about.
 
 ## 🌟 Skills
 
 - C#
-- .NET / ASP.NET Core
+- .NET / ASP.NET Core (Not quite)
 - Object-Oriented Programming (OOP)
 - Entity Framework Core
 - AutoMapper
