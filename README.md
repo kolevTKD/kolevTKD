@@ -39,7 +39,7 @@ You can check out some of my repositories below:
 ## 📝 Certifications & Achievements
 
 - **ITF Taekwon-Do 2nd Degree Black Belt** (August 2024)
-- **Programming Basics with C# - SoftUni (July 2021)**
+- Programming Basics with C# - SoftUni (July 2021)
 - **Programming Fundamentals with C# - SoftUni (October 2021)**
 - **C# Advanced - SoftUni (January 2022)**
 - **MS SQL - SoftUni (March 2022)**
