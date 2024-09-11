@@ -39,10 +39,10 @@ You can check out some of my repositories below:
 ## 📝 Certifications & Achievements
 
 - **ITF Taekwon-Do 2nd Degree Black Belt** (August 2024)
-- Programming Basics with C# - SoftUni (July 2021)
-- **Programming Fundamentals with C# - SoftUni (October 2021)**
-- **C# Advanced - SoftUni (January 2022)**
-- **MS SQL - SoftUni (March 2022)**
+- [**Programming Basics with C#** - SoftUni (July 2021)](https://softuni.bg/certificates/details/131262/c498e7ae)
+- [**Programming Fundamentals with C#** - SoftUni (October 2021)](https://softuni.bg/certificates/details/139348/20313604)
+- [**C# Advanced** - SoftUni (January 2022)](https://softuni.bg/certificates/details/143998/09d81354)
+- [**MS SQL** - SoftUni (March 2022)](https://softuni.bg/certificates/details/195459/d5b41607)
 
 ## 📈 GitHub Stats
 
