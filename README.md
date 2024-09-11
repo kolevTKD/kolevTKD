@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @kolevTKD
 
-Welcome to my GitHub profile! I'm Kolev, a passionate software engineering enthusiast with a strong interest in sports, particularly Taekwon-Do. I love solving problems, learning new technologies, and continuously improving my coding skills.
+Welcome to my GitHub profile! I'm Martin, a passionate software engineering enthusiast with a strong interest in sports, particularly Taekwon-Do. I love solving problems, learning new technologies, and continuously improving my coding skills.
 
 ## 🧑‍💻 About Me
 
@@ -39,6 +39,10 @@ You can check out some of my repositories below:
 ## 📝 Certifications & Achievements
 
 - **ITF Taekwon-Do 2nd Degree Black Belt** (August 2024)
+- **Programming Basics with C# - SoftUni (July 2021)**
+- **Programming Fundamentals with C# - SoftUni (October 2021)**
+- **C# Advanced - SoftUni (January 2022)**
+- **MS SQL - SoftUni (March 2022)**
 
 ## 📈 GitHub Stats
 
